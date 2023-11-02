@@ -106,6 +106,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I really want to thank my mentor Kevin C who I work with in my day job, he was a great mentor in helping me understand CSS. I also want to thank all the YouTube people like Kevin Powell who was wonderful in explaining Grid for me and several other FreeCodeCamp Teachers. I'm still learning and struggling but i'm slowly understanding the Grid (Column, Row) Components. All it took was attempting to code on my own and it started to click. 

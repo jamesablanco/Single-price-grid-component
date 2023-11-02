@@ -3,55 +3,43 @@ body {
     text-align: center;
     font-weight: 400;
     font-size: 16px;
-    background-color:#ddeaf2; 
-    align-items: center;
+    background-color:hsl(204, 43%, 93%);
 }
 
-.container {
-    text-align: center;
-    background-color: white;
-    display:inline-block;
-    max-width: 1440px;
-    border-radius:15px;
-    margin-top: 200px;
-    
-}
-
-
-.community {
-    background-color: white;
+.card-container {
     text-align: left;
-    margin-bottom: 30px;
-    padding: 10px;
-    padding-top: 10px;
-    border: 1px solid;
-}
-
-.subwhyus {
-    display:grid;
-    column-gap: 20px;
-    justify-content: space-between;
-    background-color: red;
-    text-align: left;
-    border: 1px solid;
-    
+    display: grid;
+    gap: 0;
+    grid-template-columns: auto;
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 0px;
+    width: 637px;
+    height: 473px;
+    box-shadow: 1px 1px 10px lightblue;
 }
 
 /*
-.whyus {
-    background-color: #4abebd;
-    display: inline-table;
-    text-align: left;
-    margin-top: 20px;
-    padding-top: 10px;
+.subscription {
+    grid-column: span 2;
 }
-*/ 
-p {
-    color: hsl(218, 22%, 67%);
+*/
+
+.One {
+    grid-column: span 2;
+    background-color: white;
+    padding: 20px;
 }
 
-footer {
-    background-color: grey;
-    max-width: 1440px;
-    margin-top: 20px;
+.Two {
+    background-color:  hsl(179, 62%, 43%);
+    padding: 20px;
+   
+}
+
+.Three {
+    background-color: #4abebd;
+    padding: 20px;
+    color: white;
+
 }
